@@ -6,7 +6,7 @@ The application provides information regarding the pickup that is currently runn
 # Link on Playstore
 [<img alt="alt_text" width="200px" src="https://github.com/Lopniv/Kibumi-Customer/blob/main/Screenshots/ic_playstore.png" />](https://play.google.com/store/apps/details?id=com.kibumi.android)
 
-# Screenshoots
+# Screenshots
 <img src="https://github.com/Lopniv/Kibumi-Customer/blob/main/Screenshots/Screenshot 1.jpg" width="15%"></img>
 <img src="https://github.com/Lopniv/Kibumi-Customer/blob/main/Screenshots/Screenshot 2.jpg" width="15%"></img>
 <img src="https://github.com/Lopniv/Kibumi-Customer/blob/main/Screenshots/Screenshot 3.jpg" width="15%"></img>
